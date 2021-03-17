@@ -1,0 +1,46 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.td,
+th {
+    padding: 6px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.tbody,
+td {
+    border: 1px solid #ccc;
+    text-align: center;
+    grid-auto-rows: max-content;
+}
+
+#navbarSupportedContent {
+    float: right;
+}
+
+.collapse navbar-collapse {
+    float: right;
+}
+
+.nav-link dropdown-toggle {
+    float: right;
+}
+
+
+#image1 {
+    float: left;
+    width: 200px;
+    height: 200px;
+    padding: 0 10px 0 0;
+}
+
+#navbarDropdown {
+    float: right;
+}
+
+.nav-link {
+    float: right;
+}
